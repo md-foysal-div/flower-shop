@@ -176,3 +176,30 @@ body{
     border:none;
     border-radius:5px;
 }
+/* ====================hot deal part end================= */
+.whatsapp-text h3{
+    color:#272727;
+    font-size:20px;
+    font-family:'Open Sans', sans-serif;;;
+    line-height:24px;
+    padding-bottom:10px;
+}
+.whatsapp-text p{
+    color:#272727;
+    font-size:16px;
+    font-family:'Open Sans', sans-serif;;;
+    line-height:24px;
+    width:608px;
+    margin:0 auto;
+}
+.whatsapp-text{
+    text-align:center;
+}
+.img-wrapper{
+    display:flex;
+    justify-content:space-between;
+    margin-top:30px;
+}
+.whatsapp-img img{
+    width:316px;
+}
