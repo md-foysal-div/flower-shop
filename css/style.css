@@ -203,3 +203,55 @@ body{
 .whatsapp-img img{
     width:316px;
 }
+/* ==========================whatsapp-img-part end============== */
+#deals-part{
+    margin-top:100px;
+}
+.deals-part-background{
+    background:url("../images/Rectangle\ 9.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+.deals-part-text h3{
+    color:#272727;
+    font-size:25px;
+    font-weight:700;
+    font-family:'Open Sans', sans-serif;;
+    padding-bottom:10px;
+}
+.deals-part-text h4{
+    color:#272727;
+    font-size:16px;
+    font-weight:400;
+    font-family:'Open Sans', sans-serif;;
+    padding-bottom:30px;
+}
+.deals-part-text{
+    text-align:center;
+}
+.deals-input-item{
+    text-align:center
+}
+.Subscribe-button{
+    display:inline-block
+}
+.deals-input-item .input-span input{
+    width:600px;        
+    padding: 10px 0 10px 10px;
+    border-radius:5px;
+    border:none;
+    margin-right:5px;
+}
+.Subscribe-button .Subscribe{
+    color:#FFFFFF;
+    font-size:16px;
+    font-weight:400;
+    font-family:'Open Sans', sans-serif;;
+    background:#E55473;
+    padding:8px 31px;
+    border:none;
+    border-radius:5px;
+}
